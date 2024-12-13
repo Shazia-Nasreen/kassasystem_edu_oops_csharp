@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarah\\OneDrive\\Documents\\Edu c#\\project\\Kassasystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C90A180-EBCD-483E-BFD3-F2ACF069007F}|Kassasystem\\Kassasystem.csproj|c:\\users\\sarah\\onedrive\\documents\\edu c#\\project\\kassasystem\\kassasystem\\recepit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C90A180-EBCD-483E-BFD3-F2ACF069007F}|Kassasystem\\Kassasystem.csproj|solutionrelative:kassasystem\\recepit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C90A180-EBCD-483E-BFD3-F2ACF069007F}|Kassasystem\\Kassasystem.csproj|c:\\users\\sarah\\onedrive\\documents\\edu c#\\project\\kassasystem\\kassasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C90A180-EBCD-483E-BFD3-F2ACF069007F}|Kassasystem\\Kassasystem.csproj|solutionrelative:kassasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C90A180-EBCD-483E-BFD3-F2ACF069007F}|Kassasystem\\Kassasystem.csproj|c:\\users\\sarah\\onedrive\\documents\\edu c#\\project\\kassasystem\\kassasystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C90A180-EBCD-483E-BFD3-F2ACF069007F}|Kassasystem\\Kassasystem.csproj|solutionrelative:kassasystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C90A180-EBCD-483E-BFD3-F2ACF069007F}|Kassasystem\\Kassasystem.csproj|c:\\users\\sarah\\onedrive\\documents\\edu c#\\project\\kassasystem\\kassasystem\\recepitrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C90A180-EBCD-483E-BFD3-F2ACF069007F}|Kassasystem\\Kassasystem.csproj|solutionrelative:kassasystem\\recepitrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\OneDrive\\Documents\\Edu c#\\project\\Kassasystem\\Kassasystem\\Product.cs",
+              "RelativeDocumentMoniker": "Kassasystem\\Product.cs",
+              "ToolTip": "C:\\Users\\sarah\\OneDrive\\Documents\\Edu c#\\project\\Kassasystem\\Kassasystem\\Product.cs",
+              "RelativeToolTip": "Kassasystem\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:18:51.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecepitRow.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\OneDrive\\Documents\\Edu c#\\project\\Kassasystem\\Kassasystem\\RecepitRow.cs",
+              "RelativeDocumentMoniker": "Kassasystem\\RecepitRow.cs",
+              "ToolTip": "C:\\Users\\sarah\\OneDrive\\Documents\\Edu c#\\project\\Kassasystem\\Kassasystem\\RecepitRow.cs",
+              "RelativeToolTip": "Kassasystem\\RecepitRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:18:48.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recepit.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\OneDrive\\Documents\\Edu c#\\project\\Kassasystem\\Kassasystem\\Recepit.cs",
+              "RelativeDocumentMoniker": "Kassasystem\\Recepit.cs",
+              "ToolTip": "C:\\Users\\sarah\\OneDrive\\Documents\\Edu c#\\project\\Kassasystem\\Kassasystem\\Recepit.cs",
+              "RelativeToolTip": "Kassasystem\\Recepit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:17:06.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\OneDrive\\Documents\\Edu c#\\project\\Kassasystem\\Kassasystem\\Program.cs",
+              "RelativeDocumentMoniker": "Kassasystem\\Program.cs",
+              "ToolTip": "C:\\Users\\sarah\\OneDrive\\Documents\\Edu c#\\project\\Kassasystem\\Kassasystem\\Program.cs",
+              "RelativeToolTip": "Kassasystem\\Program.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAkwPQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:17:21.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
